@@ -1,0 +1,21 @@
+*{
+  font-family: 'Oxygen', sans-serif;
+}
+
+header{
+  margin-bottom: 25px;
+}
+
+h1{
+  margin-bottom: 25px;
+}
+
+.row{
+  background-color: lightblue;
+  margin: 10px;
+  padding: 5px;
+}
+
+.nav-item{
+  background-color: #FAEBD7;
+}
